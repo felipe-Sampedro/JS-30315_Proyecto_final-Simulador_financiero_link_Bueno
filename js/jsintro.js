@@ -72,7 +72,7 @@ simular.onclick = () =>{
             let btn=document.createElement('button')
             btn.id='nuevobtn'
             btn.className="btn btn-primary btn-lg"
-            btn.innerHTML="<a href='../pages/simulador.html' class='text-white' style='text-decoration:none'>IR AL SIMULADOR</a>"
+            btn.innerHTML="<a href='./pages/simulador.html' class='text-white' style='text-decoration:none'>IR AL SIMULADOR</a>"
             ready.append(btn)
 
             /* Aplicando Fetch al proyecto */
@@ -89,7 +89,7 @@ simular.onclick = () =>{
             let btn=document.createElement('button')
             btn.id='nuevobtn'
             btn.className="btn btn-primary btn-lg"
-            btn.innerHTML="<a href='../pages/simulador.html' class='text-white' style='text-decoration:none'>IR AL SIMULADOR</a>"
+            btn.innerHTML="<a href='./pages/simulador.html' class='text-white' style='text-decoration:none'>IR AL SIMULADOR</a>"
             ready.append(btn)
 
 
